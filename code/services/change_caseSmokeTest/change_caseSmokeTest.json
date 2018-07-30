@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,change_case",
+    "logging_enabled": "false",
+    "name": "change_caseSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "change_caseSmokeTest.js"
+}
